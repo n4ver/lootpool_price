@@ -1,0 +1,346 @@
+{
+    "Loot": {
+        "SE": {
+            "Shiny": {
+                "Item": "Resurgence",
+                "Tracker": "Raids Won"
+            },
+            "Mythic": [
+                "Convergence",
+                "Hero",
+                "Fantasia",
+                "Cataclysm",
+                "Corkian Simulator"
+            ],
+            "Fabled": [
+                "Marionette",
+                "Briars' Embrace",
+                "Ysengrim",
+                "Empyreal Emberplate",
+                "Blind Thrust",
+                "Time Rift",
+                "Rhythm of the Seasons"
+            ],
+            "Legendary": [
+                "Azeotrope",
+                "Cardiac Arrest",
+                "Unravel",
+                "Aquarius",
+                "Thrunda Ripsaw"
+            ],
+            "Rare": [
+                "Riverflow",
+                "Timthriall",
+                "Voltage",
+                "Starglass",
+                "Danse Macabre",
+                "Supernova"
+            ],
+            "Unique": [
+                "Feedback",
+                "Founder",
+                "Belcon",
+                "Sleeping Beast",
+                "Waterspout",
+                "Sharpened Harpoon"
+            ]
+        },
+        "Corkus": {
+            "Shiny": {
+                "Item": "Monster",
+                "Tracker": "Players Killed"
+            },
+            "Mythic": [
+                "Pure",
+                "Archangel",
+                "Freedom",
+                "Moontower"
+            ],
+            "Fabled": [
+                "Auxetic Capacitor",
+                "Gnossis",
+                "Air In A Can",
+                "Time Rift",
+                "Lachesism",
+                "Second Wind"
+            ],
+            "Legendary": [
+                "Cinnamon",
+                "Sourscratch",
+                "Payment Day",
+                "Torrential Tide",
+                "Crater Print",
+                "Event Horizon",
+                "Accelerator",
+                "Conflagrate"
+            ],
+            "Rare": [
+                "Leadlights",
+                "Arakadicus' Maw",
+                "Volmor's Flair",
+                "Wybel Carved Relik"
+            ],
+            "Unique": [
+                "Sleeping Beast",
+                "Crescent",
+                "Waterspout",
+                "Hysteria"
+            ]
+        },
+        "Sky": {
+            "Shiny": {
+                "Item": "Slayer",
+                "Tracker": "Chests Opened"
+            },
+            "Mythic": [
+                "Collapse",
+                "Idol",
+                "Crusade Sabatons",
+                "Sunstar",
+                "Corkian Insulator"
+            ],
+            "Fabled": [
+                "Narcissist",
+                "Blossom Haze",
+                "Nighthawk"
+            ],
+            "Legendary": [
+                "Contrail Shock",
+                "Hurricane Recurve",
+                "Overdrive",
+                "Follow the Wind",
+                "Charm of the Storms",
+                "Nether's Scar",
+                "Quinque"
+            ],
+            "Rare": [
+                "Sparkling Tones",
+                "The Specialist",
+                "Bygones",
+                "Sreggad",
+                "Fog of Creation",
+                "Arakadicus' Maw"
+            ],
+            "Unique": [
+                "Kivilu",
+                "Justice",
+                "Aurora",
+                "Dart Frog's Skin",
+                "Magnitude",
+                "Ration"
+            ]
+        },
+        "Molten": {
+            "Shiny": {
+                "Item": "Thrundacrack",
+                "Tracker": "Mobs Killed"
+            },
+            "Mythic": [
+                "Nullification",
+                "Grimtrap",
+                "Archangel",
+                "Weathered",
+                "Az",
+                "Corkian Insulator"
+            ],
+            "Fabled": [
+                "Pain Cycle",
+                "Time Rift",
+                "Blossom Haze",
+                "Iosis"
+            ],
+            "Legendary": [
+                "Lumina",
+                "Cardiac Arrest",
+                "Booster Plate",
+                "Flameshot Hilt",
+                "Procrastination"
+            ],
+            "Rare": [
+                "Prismatic Pendulum",
+                "Niflheim",
+                "Charging Flame",
+                "Silkweb Mail",
+                "Mesosphere",
+                "Storm Surge"
+            ],
+            "Unique": [
+                "Reason",
+                "Tephra",
+                "Storm Caller",
+                "Squid Anklet",
+                "Caldera",
+                "Dhoruba"
+            ]
+        },
+        "Canyon": {
+            "Shiny": {
+                "Item": "Spring",
+                "Tracker": "Lootruns Completed"
+            },
+            "Mythic": [
+                "Sunstar",
+                "Toxoplasmosis",
+                "Thrundacrack",
+                "Nirvana",
+                "Nullification"
+            ],
+            "Fabled": [
+                "Whirling Gyre",
+                "Wanderer's Purpose",
+                "Echoes of the Lost",
+                "Nighthawk",
+                "Time Rift",
+                "Rhythm of the Seasons"
+            ],
+            "Legendary": [
+                "Alka Cometflinger",
+                "Zephra Shredder",
+                "Thought Energy",
+                "Hetusol"
+            ],
+            "Rare": [
+                "Guillotine",
+                "Windshear",
+                "Enmity",
+                "Ambiguity",
+                "Alkahest"
+            ],
+            "Unique": [
+                "Antim",
+                "Calidade Mail",
+                "Wasteland Azalea",
+                "Sleeping Beast",
+                "Demon's Will",
+                "Diaminar"
+            ]
+        }
+    },
+    "Icon": {
+        "Resurgence": "boots.png",
+        "Convergence": "https://cdn.wynncraft.com/nextgen/itemguide/3.3/spear.multi3.webp",
+        "Hero": "https://cdn.wynncraft.com/nextgen/itemguide/3.3/spear.air3.webp",
+        "Fantasia": "https://cdn.wynncraft.com/nextgen/itemguide/3.3/relik.multi3.webp",
+        "Cataclysm": "https://cdn.wynncraft.com/nextgen/itemguide/3.3/dagger.thunder3.webp",
+        "Corkian Simulator": "simulator.png",
+        "Marionette": "https://cdn.wynncraft.com/nextgen/itemguide/3.3/relik.earth3.webp",
+        "Briars' Embrace": "https://cdn.wynncraft.com/nextgen/itemguide/3.3/bow.earth3.webp",
+        "Ysengrim": "https://cdn.wynncraft.com/nextgen/itemguide/3.3/dagger.fire3.webp",
+        "Empyreal Emberplate": "chestplate.png",
+        "Blind Thrust": "boots.png",
+        "Time Rift": "chestplate.png",
+        "Rhythm of the Seasons": "https://cdn.wynncraft.com/nextgen/itemguide/3.3/spear.earth3.webp",
+        "Azeotrope": "https://cdn.wynncraft.com/nextgen/itemguide/3.3/ring.water2.webp",
+        "Cardiac Arrest": "chestplate.png",
+        "Unravel": "helmet.png",
+        "Aquarius": "chestplate.png",
+        "Thrunda Ripsaw": "https://cdn.wynncraft.com/nextgen/itemguide/3.3/dagger.thunder3.webp",
+        "Riverflow": "boots.png",
+        "Timthriall": "https://cdn.wynncraft.com/nextgen/itemguide/3.3/relik.earth3.webp",
+        "Voltage": "https://cdn.wynncraft.com/nextgen/itemguide/3.3/ring.thunder2.webp",
+        "Starglass": "chestplate.png",
+        "Danse Macabre": "https://cdn.wynncraft.com/nextgen/itemguide/3.3/relik.thunder3.webp",
+        "Supernova": "https://cdn.wynncraft.com/nextgen/itemguide/3.3/spear.multi3.webp",
+        "Feedback": "https://cdn.wynncraft.com/nextgen/itemguide/3.3/spear.thunder3.webp",
+        "Founder": "https://cdn.wynncraft.com/nextgen/itemguide/3.3/necklace.earth2.webp",
+        "Belcon": "https://cdn.wynncraft.com/nextgen/itemguide/3.3/dagger.multi3.webp",
+        "Sleeping Beast": "https://cdn.wynncraft.com/nextgen/itemguide/3.3/bow.earth3.webp",
+        "Waterspout": "https://cdn.wynncraft.com/nextgen/itemguide/3.3/dagger.water3.webp",
+        "Sharpened Harpoon": "https://cdn.wynncraft.com/nextgen/itemguide/3.3/spear.multi3.webp",
+        "Monster": "https://cdn.wynncraft.com/nextgen/itemguide/3.3/wand.fire3.webp",
+        "Pure": "https://cdn.wynncraft.com/nextgen/itemguide/3.3/wand.multi1.webp",
+        "Archangel": "https://cdn.wynncraft.com/nextgen/itemguide/3.3/spear.air3.webp",
+        "Freedom": "https://cdn.wynncraft.com/nextgen/itemguide/3.3/bow.multi3.webp",
+        "Moontower": "boots.png",
+        "Auxetic Capacitor": "https://cdn.wynncraft.com/nextgen/itemguide/3.3/necklace.thunder2.webp",
+        "Gnossis": "helmet.png",
+        "Air In A Can": "https://cdn.wynncraft.com/nextgen/itemguide/3.3/bow.air3.webp",
+        "Lachesism": "https://cdn.wynncraft.com/nextgen/itemguide/3.3/bracelet.thunder2.webp",
+        "Second Wind": "leggings.png",
+        "Cinnamon": "https://cdn.wynncraft.com/nextgen/itemguide/3.3/relik.fire3.webp",
+        "Sourscratch": "https://cdn.wynncraft.com/nextgen/itemguide/3.3/bow.thunder3.webp",
+        "Payment Day": "https://cdn.wynncraft.com/nextgen/itemguide/3.3/spear.earth3.webp",
+        "Torrential Tide": "https://cdn.wynncraft.com/nextgen/itemguide/3.3/bow.water3.webp",
+        "Crater Print": "boots.png",
+        "Event Horizon": "https://cdn.wynncraft.com/nextgen/itemguide/3.3/wand.multi3.webp",
+        "Accelerator": "boots.png",
+        "Conflagrate": "helmet.png",
+        "Leadlights": "boots.png",
+        "Arakadicus' Maw": "https://cdn.wynncraft.com/nextgen/itemguide/3.3/dagger.multi3.webp",
+        "Volmor's Flair": "https://cdn.wynncraft.com/nextgen/itemguide/3.3/bracelet.multi2.webp",
+        "Wybel Carved Relik": "https://cdn.wynncraft.com/nextgen/itemguide/3.3/relik.basicWood.webp",
+        "Crescent": "https://cdn.wynncraft.com/nextgen/itemguide/3.3/bow.water3.webp",
+        "Hysteria": "boots.png",
+        "Slayer": "boots.png",
+        "Collapse": "https://cdn.wynncraft.com/nextgen/itemguide/3.3/spear.multi3.webp",
+        "Idol": "https://cdn.wynncraft.com/nextgen/itemguide/3.3/spear.water3.webp",
+        "Crusade Sabatons": "boots.png",
+        "Sunstar": "https://cdn.wynncraft.com/nextgen/itemguide/3.3/relik.thunder3.webp",
+        "Corkian Insulator": "insulator.png",
+        "Narcissist": "https://cdn.wynncraft.com/nextgen/itemguide/3.3/relik.earth3.webp",
+        "Blossom Haze": "https://cdn.wynncraft.com/nextgen/itemguide/3.3/dagger.earth3.webp",
+        "Nighthawk": "helmet.png",
+        "Contrail Shock": "leggings.png",
+        "Hurricane Recurve": "https://cdn.wynncraft.com/nextgen/itemguide/3.3/bow.air3.webp",
+        "Overdrive": "https://cdn.wynncraft.com/nextgen/itemguide/3.3/relik.thunder3.webp",
+        "Follow the Wind": "https://cdn.wynncraft.com/nextgen/itemguide/3.3/bracelet.air2.webp",
+        "Charm of the Storms": "https://cdn.wynncraft.com/nextgen/itemguide/3.3/necklace.air2.webp",
+        "Nether's Scar": "boots.png",
+        "Quinque": "https://cdn.wynncraft.com/nextgen/itemguide/3.3/spear.thunder3.webp",
+        "Sparkling Tones": "https://cdn.wynncraft.com/nextgen/itemguide/3.3/relik.basicGold.webp",
+        "The Specialist": "https://cdn.wynncraft.com/nextgen/itemguide/3.3/dagger.basicWood.webp",
+        "Bygones": "https://cdn.wynncraft.com/nextgen/itemguide/3.3/dagger.fire3.webp",
+        "Sreggad": "https://cdn.wynncraft.com/nextgen/itemguide/3.3/dagger.basicWood.webp",
+        "Fog of Creation": "https://cdn.wynncraft.com/nextgen/itemguide/3.3/bow.air3.webp",
+        "Kivilu": "https://cdn.wynncraft.com/nextgen/itemguide/3.3/relik.water3.webp",
+        "Justice": "https://cdn.wynncraft.com/nextgen/itemguide/3.3/bracelet.fire2.webp",
+        "Aurora": "https://cdn.wynncraft.com/nextgen/itemguide/3.3/ring.multi2.webp",
+        "Dart Frog's Skin": "boots.png",
+        "Magnitude": "https://cdn.wynncraft.com/nextgen/itemguide/3.3/spear.earth1.webp",
+        "Ration": "leggings.png",
+        "Thrundacrack": "https://cdn.wynncraft.com/nextgen/itemguide/3.3/spear.thunder3.webp",
+        "Nullification": "https://cdn.wynncraft.com/nextgen/itemguide/3.3/dagger.basicGold.webp",
+        "Grimtrap": "https://cdn.wynncraft.com/nextgen/itemguide/3.3/dagger.earth3.webp",
+        "Weathered": "https://cdn.wynncraft.com/nextgen/itemguide/3.3/dagger.air3.webp",
+        "Az": "https://cdn.wynncraft.com/nextgen/itemguide/3.3/bow.thunder3.webp",
+        "Pain Cycle": "leggings.png",
+        "Iosis": "helmet.png",
+        "Lumina": "https://cdn.wynncraft.com/nextgen/itemguide/3.3/relik.thunder3.webp",
+        "Booster Plate": "chestplate.png",
+        "Flameshot Hilt": "https://cdn.wynncraft.com/nextgen/itemguide/3.3/dagger.fire3.webp",
+        "Procrastination": "https://cdn.wynncraft.com/nextgen/itemguide/3.3/relik.basicWood.webp",
+        "Prismatic Pendulum": "https://cdn.wynncraft.com/nextgen/itemguide/3.3/bow.multi3.webp",
+        "Niflheim": "https://cdn.wynncraft.com/nextgen/itemguide/3.3/wand.multi3.webp",
+        "Charging Flame": "https://cdn.wynncraft.com/nextgen/itemguide/3.3/spear.multi3.webp",
+        "Silkweb Mail": "chestplate.png",
+        "Mesosphere": "boots.png",
+        "Storm Surge": "https://cdn.wynncraft.com/nextgen/itemguide/3.3/wand.water3.webp",
+        "Reason": "https://cdn.wynncraft.com/nextgen/itemguide/3.3/wand.water3.webp",
+        "Tephra": "helmet.png",
+        "Storm Caller": "https://cdn.wynncraft.com/nextgen/itemguide/3.3/bow.multi2.webp",
+        "Squid Anklet": "https://cdn.wynncraft.com/nextgen/itemguide/3.3/bracelet.water2.webp",
+        "Caldera": "https://cdn.wynncraft.com/nextgen/itemguide/3.3/dagger.water3.webp",
+        "Dhoruba": "https://cdn.wynncraft.com/nextgen/itemguide/3.3/relik.thunder3.webp",
+        "Spring": "https://cdn.wynncraft.com/nextgen/itemguide/3.3/bow.water3.webp",
+        "Toxoplasmosis": "https://cdn.wynncraft.com/nextgen/itemguide/3.3/relik.earth3.webp",
+        "Nirvana": "https://cdn.wynncraft.com/nextgen/itemguide/3.3/dagger.water3.webp",
+        "Whirling Gyre": "leggings.png",
+        "Wanderer's Purpose": "https://cdn.wynncraft.com/nextgen/itemguide/3.3/bow.earth3.webp",
+        "Echoes of the Lost": "chestplate.png",
+        "Alka Cometflinger": "https://cdn.wynncraft.com/nextgen/itemguide/3.3/bow.earth3.webp",
+        "Zephra Shredder": "https://cdn.wynncraft.com/nextgen/itemguide/3.3/spear.air3.webp",
+        "Thought Energy": "https://cdn.wynncraft.com/nextgen/itemguide/3.3/bracelet.water2.webp",
+        "Hetusol": "chestplate.png",
+        "Guillotine": "helmet.png",
+        "Windshear": "chestplate.png",
+        "Enmity": "https://cdn.wynncraft.com/nextgen/itemguide/3.3/bracelet.thunder2.webp",
+        "Ambiguity": "https://cdn.wynncraft.com/nextgen/itemguide/3.3/necklace.fire2.webp",
+        "Alkahest": "helmet.png",
+        "Antim": "https://cdn.wynncraft.com/nextgen/itemguide/3.3/necklace.basicIron.webp",
+        "Calidade Mail": "chestplate.png",
+        "Wasteland Azalea": "boots.png",
+        "Demon's Will": "https://cdn.wynncraft.com/nextgen/itemguide/3.3/bow.thunder3.webp",
+        "Diaminar": "https://cdn.wynncraft.com/nextgen/itemguide/3.3/spear.fire3.webp"
+    },
+    "Timestamp": 1744398000
+}
