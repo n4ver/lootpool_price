@@ -20,21 +20,21 @@ def save_response(response: str) -> None:
 
 def download_lootpool():
     print("Local lootpool file does not exist. Grabbing from Nori API...")
-    print("NORI  | Getting Token...")
+    logger.debug("NORI  | Getting Token...")
 
     r = requests.get(f"{API_URI}/api/tokens")
     cookies = r.cookies
     csrf_token = cookies.get('csrf_token')
 
-    print(rf"NORI  | Getting response from {API_URI}/api/lootpool...")
+    logger.debug(rf"NORI  | Getting response from {API_URI}/api/lootpool...")
 
     response = requests.get(rf"{API_URI}/api/lootpool",cookies=cookies,headers={"X-CSRF-Token":csrf_token})
     if response.status_code == 200:
         json_response = json.loads(response.content)
         save_response(json_response)
-        print(f"NORI  | Response Saved at `{JSON_SAVE_LOCATION}`.")
+        logger.info(f"NORI  | Response Saved at `{JSON_SAVE_LOCATION}`.")
     else:
-        print(f"ERROR | Status Code {response.status_code}")
+        logger.error(f"ERROR | Status Code {response.status_code}")
 
 
 def convert_to_denominations(price):
@@ -66,7 +66,6 @@ def get_mythics():
         f.close()
     for location_loot in lootpool['Loot']:
         location_prices = []
-        print(f"{location_loot } Lootpool:")
         location_mythics = lootpool['Loot'][location_loot]['Mythic']
         for mythic in location_mythics:
             mythic_price = get_mythic_price(mythic)
